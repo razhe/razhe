@@ -2,7 +2,7 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
 
 ### 📋 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
