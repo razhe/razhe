@@ -1,5 +1,5 @@
 
-<img align="center" style="display: block; margin: 0 auto" width="50%" height="auto" src="images/image-profile.svg" height="175px"/>
+<img align="center" style="display: block; margin: 0 auto; width:50%;" src="images/image-profile.svg"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gustav</h1>
 
@@ -11,11 +11,11 @@ My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm fin
 
 &nbsp;
 
-<img align="center" style="display: block; margin: 0 auto" width="80%" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
+<img align="center" style="display: block; margin: 0 auto; width:80%;" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
 
 &nbsp;
 
-<img align="center" style="display: block; margin: 0 auto" width="80%" width="100%" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<img align="center" style="display: block; margin: 0 auto; width:80%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
 
 &nbsp;
 
