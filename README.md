@@ -1,8 +1,14 @@
-# Hi there, I'm Gustav 👋
 
+<img align="center" width="50%" height="auto" src="images/image-profile.svg" height="175px"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gustav</h1>
+
+<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
+<br/>
+<img align="left" width="100%" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my from my public repositories and doesn't reflect experience or skill level.
+<br/>
 
 ### 📋 Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
