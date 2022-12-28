@@ -66,10 +66,3 @@ My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm fin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-&nbsp;
-### 🙋‍♂️ Contact me
-
-<a href="mailto:gustavo.acu.rivas@gmail.com" title="gustavo.acu.rivas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
