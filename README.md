@@ -38,7 +38,6 @@ My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm fin
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-&nbsp;
 
 ### 📚 Frameworks, Platforms and Libraries
 
