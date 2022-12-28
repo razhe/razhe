@@ -6,6 +6,15 @@
 
 My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm finalizing Computer Engineering career 🎓.
 
+- 🌱 I’m currently learning more about Spring Boot.
+
+- 👯 I am looking for a job as a computer engineer
+
+- 📫 How to reach me **gustavo.acu.rivas@gmail.com**
+
+- ⚡ Fun fact, in my free time **I play games and go i work out very often.**
+
+
 &nbsp;
 
 <img align="left" style="display: block; margin: 0 auto; width:47%;" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
