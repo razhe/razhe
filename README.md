@@ -20,7 +20,7 @@ My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm fin
 <img align="left" style="display: block; margin: 0 auto; width:47%;" src="https://github-readme-stats.vercel.app/api?username=razhe&show_icons=true&theme=dark"/>
 
 
-<img align="left" style="display: block; margin: 0 auto; width:48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+<img align="left" style="display: block; margin: 0 auto; width:48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razhe&layout=compact&theme=dark"/>
 
 &nbsp;
 
