@@ -4,7 +4,7 @@
 
 <h3 align="center">About Me 🐱‍💻</h1>
 
-My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm finalizing Computer Engineering career 🎓.
+My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm certified as Computer Engineer 🎓.
 
 - 🌱 I’m currently learning more about Spring Boot.
 
