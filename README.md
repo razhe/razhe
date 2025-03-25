@@ -8,8 +8,6 @@ My name is Gustavo, i born in Chile and i'm 22 years old. At the present i'm cer
 
 - 🌱 I’m currently learning more about Spring Boot.
 
-- 👯 I am looking for a job as a computer engineer
-
 - 📫 How to reach me **gustavo.acu.rivas@gmail.com**
 
 - ⚡ Fun fact, in my free time **I play games and i work out very often.**
